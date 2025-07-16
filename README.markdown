@@ -57,6 +57,4 @@ To align with the INRIA project's long-term goals, potential extensions include:
 - Supporting dexterous manipulation in cluttered environments.
 
 ## Author
-[Your Name]
-
-This project is submitted as part of my application for the INRIA PhD position in the Willow research team, showcasing my proficiency in vision-language models, robotic manipulation, and modular software development.
+Ashutosh Dadhich
