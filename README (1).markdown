@@ -59,6 +59,6 @@ To advance the project’s scientific contributions, potential extensions includ
 - Extending to dexterous manipulation in complex, cluttered environments.
 
 ## Author
-[Your Name]
+Ashutosh Dadhich
 
 This project serves as a foundation for exploring the intersection of vision-language models and robotic manipulation, with applications in autonomous systems and human-robot interaction. Feedback and suggestions for further development are welcome.
