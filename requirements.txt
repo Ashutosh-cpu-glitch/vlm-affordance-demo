@@ -1,0 +1,5 @@
+torch>=2.0.0
+transformers>=4.35.0
+pybullet>=3.2.5
+opencv-python>=4.8.0
+pillow>=9.5.0
